@@ -8,7 +8,7 @@ The purpose of this Analysis is to test how machine learning models are predict 
 # Results
 
 # Random oversampling
-![Random](https://user-images.githubusercontent.com/77947860/164837747-a3c4643d-6aba-4dd7-baa2-f0a316e1e8ee.png)
+![Random_oversampling](https://user-images.githubusercontent.com/77947860/164845049-23f1edee-889b-45a5-a4b8-a973428e7ce0.png)
 
 Balanced Accuracy Score : 0.6366972052004142
 high risk performance:
