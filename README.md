@@ -46,16 +46,25 @@ low risk performance:
 - precision is perfect(1.00)
 - recall is low(0.45)
 
+# Undersampling
+Balanced Accuracy Score:0.6302712208564487
+high-risk performance:
+- precision is very low(0.01)
+- recall is great(0.59)
+low-risk performance:
+- precision is perfect(1.00)
+- recall is fair(0.43)
+
 # Smoteen
 ![smotten](https://user-images.githubusercontent.com/77947860/164839768-d1ca6831-826b-451c-809b-45370adf8182.png)
 
-Balanced Accuracy Score: (0.5293318990697431)
+Balanced Accuracy Score: (0.6375533316412246)
 
-high risk performance:
+high-risk performance:
 - precision is very low(0.01)
 - recall is great(0.70)
 
-low risk performance:
+low-risk performance:
 - precision is perfect(1.00)
 - recall is fair(0.57)
 
@@ -63,11 +72,11 @@ low risk performance:
 ![balanced_random](https://user-images.githubusercontent.com/77947860/164842618-ed1f79df-f207-44d7-b1cd-0578c703602c.png)
 
 # Balanced Accuracy Score: 0.7877672625306695
-high risk performance:
+high-risk performance:
 - precision is  low(0.03)
 - recall is good(0.70)
 
-low risk performance:
+low-risk performance:
 - precision is perfect(1.00)
 - recall is great(0.87)
 
@@ -77,19 +86,19 @@ low risk performance:
 
 # Balanced Accuracy Score: 0.925427358175101
 
-high risk performance:
+high-risk performance:
 - precision is  low(0.07)
 - recall is great(0.91)
 
 
-low risk performance:
+low-risk performance:
 - precision is perfect(1.00)
 - recall is great(0.94)
 
 # Summary
 The F1 score can be characterized as a single summary statistic of precision and sensitivity(recall). Given this, the F1 score is a great measurement to gauge model performance. Based on F1 scores the best forming model is the Easy Ensemble Classifier with an average F1 score of 0.97. While the worst performing is Cluster Centroid with an average F1 score of 0.62.
 
-Based on performance the Easy Ensemble Classifier model is greatly recommended for assessing credit risk.
+Based on the performance the Easy Ensemble Classifier model is greatly recommended for assessing credit risk.
 
 
 
